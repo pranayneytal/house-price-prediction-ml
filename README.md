@@ -38,6 +38,17 @@ Random Forest performed significantly better, capturing non-linear relationships
 
 ---
 
+## Results
+
+- Two regression models were evaluated: Linear Regression and Random Forest.
+- Performance was measured using Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
+- Random Forest outperformed Linear Regression, achieving lower MAE and RMSE values.
+- The improvement highlights the effectiveness of non-linear, ensemble-based models for real-world regression tasks.
+- Actual vs predicted price plots were used to visually assess model performance.
+
+
+---
+
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
